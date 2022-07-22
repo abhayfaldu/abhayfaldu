@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhayfaldu
 - 👀 I’m interested in wtriting code and learning new things.
 - 🌱 I’m currently learning full-stack web development at Masai school, Bengaluru, Karnataka.
-- 💞️ I’m looking to collaborate on ...
 - 📫 if you want to reach me you can drop a mail on abhayfaldu1922@gmail.com
 
 <!---
