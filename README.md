@@ -1,7 +1,9 @@
-<h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" alt="abhayfaldu19" /></h1>
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGZsptczP2Row/profile-displaybackgroundimage-shrink_350_1400/0/1653034082839?e=1671667200&v=beta&t=98tonc_y_S4UavEYI3PaJ8TATcJDBD9g1M2vTLkadEo)](https://rishavchanda.io)
 
 <h1 align="center">Namaste 🙏🏻 from Abhay Faldu</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
+
+<h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" alt="abhayfaldu19" /></h1>
 
 - 🔭 I’m currently working on **my skills.**
 
@@ -45,4 +47,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayfaldu&show_icons=true&locale=en&layout=compact" alt="abhayfaldu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayfaldu&" alt="abhayfaldu" /></p>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayfaldu&" alt="abhayfaldu" /></span>
