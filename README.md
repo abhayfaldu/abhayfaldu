@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **MERN.**
 
+- 🏠 I live in **Jashapar village** of Kalavad, Jamnagar with my parants.
+
 - 👨‍💻 All of my projects are available at [add portfolio here](add portfolio here)
 
 - 📫 How to reach me **abhayfaldu1922@gmail.com**
