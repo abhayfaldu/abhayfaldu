@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGZsptczP2Row/profile-displaybackgroundimage-shrink_350_1400/0/1653034082839?e=1671667200&v=beta&t=98tonc_y_S4UavEYI3PaJ8TATcJDBD9g1M2vTLkadEo)](https://rishavchanda.io)
+![MasterHead](https://i.postimg.cc/3NyPFfjd/github-header-image.png)
 
 <h1 align="center">Namaste 🙏🏻 from Abhay Faldu</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
