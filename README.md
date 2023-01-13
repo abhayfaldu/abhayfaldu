@@ -1,81 +1,83 @@
-![MasterHead](https://i.postimg.cc/3NyPFfjd/github-header-image.png)
+<!-- ![MasterHead](https://i.postimg.cc/3NyPFfjd/github-header-image.png) -->
+![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+
+<br>
 
 <h1 align="center">Namaste 🙏🏻 from Abhay Faldu</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
 
-<h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" alt="abhayfaldu19" /></h1>
+<h3 align="center">Aspiring MERN Stack developer from India</h3>
 
-- 🔭 I’m currently working on **my skills.**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhayfaldu&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra4545" /> </p>
 
-- 🌱 I’m currently learning **MERN.**
+<br>
 
-- 🏠 I live in **Jashapar village** of Kalavad, Jamnagar with my parants.
+- 🔭 I’m currently working on **my skills**.
 
-- 👨‍💻 All of my projects are available at [add portfolio here](add portfolio here)
+- 🌱 I’m currently learning **Full-Stack MERN Development**
 
-- 📫 How to reach me **abhayfaldu1922@gmail.com**
+- 🏠 I live in **Jashapar a small village near Kalavad, Jamnagar, Gujrat with my parants**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Bn0FY2CjJqNHzlS3bKhjveKetVgxq0R/view?usp=sharing](https://drive.google.com/file/d/15Bn0FY2CjJqNHzlS3bKhjveKetVgxq0R/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [my portfolio](https://abhayfaldu.github.io).
 
-<h3 align="left">Connect with me:</h3>
+- 📫 Reach out to me at **abhayfaldu1922@gmail.com**.
 
-<p align="left">
+- 📄 Know about my experiences at [my Resume](https://drive.google.com/file/d/15Bn0FY2CjJqNHzlS3bKhjveKetVgxq0R/view?usp=sharing).
 
-  <a href="https://twitter.com/abhayfaldu19" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"       alt="abhayfaldu19" height="30" width="40" />
+<br>
+
+<h2 align="center">Connect with me:</h2>
+
+<p align="center">
+  <a href="https://twitter.com/abhayfaldu19" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-
-  <a href="https://linkedin.com/in/abhay-faldu-493b92211" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-         alt.svg" alt="abhay-faldu-493b92211" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/abhay-faldu-493b92211" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/abhayfaldu" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
 
-<p align="left"> 
+<h2 align="center">Languages and Tools:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mongodb,express,nodejs,git,github,heroku,figma,bash,codepen,stackoverflow,netlify)](https://skillicons.dev)
+
+<br>
+
+<h3 align="center">GitHub Statistics</h3>
   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS
-  </a> 
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" > 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7XzcjpeidE1czH2XI6mTtqxXyx0JZomQBmx7_1ygfLkHsIwEetrjC47yhUg2dUIjn1hY&usqp=CAU" alt="express" width="60" height="40"/> ExpressJS
-  </a> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML
-  </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript
-  </a> 
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> MongoDB
-  </a> 
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> NodeJS
-  </a> 
-  
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> Postman
-  </a> 
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> ReactJS
-  </a> 
-  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhayfaldu" alt="jitendra4545" />
+  </a>
 </p>
 
-<h3>Statistics</h3>
+<br>
 
-<p> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayfaldu&show_icons=true&locale=en&layout=compact" alt="abhayfaldu" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhayfaldu&show_icons=true&theme=light&border_radius=8" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhayfaldu&theme=default&border_radius=8&color=#43BEE5" alt="stats-2" />
 </p>
-<span>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayfaldu&" alt="abhayfaldu" />
-</span>
 
-## Snake eating my contribution graph
-![snake gif](https://github.com/abhayfaldu/abhayfaldu/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=abhayfaldu&show_icons=true&locale=en&layout=compact" alt="stats-3"
+</p>
+
+<br>
+
+<h2 align="center">Snake eating my contributions graph</h2>
+
+<p align="center">
+  <img src="https://github.com/abhayfaldu/abhayfaldu/blob/output/github-contribution-grid-snake.svg" alt="snake-gif">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" width="500px"/>
+</p>
