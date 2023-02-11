@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on **my skills**.
 
-- 🌱 I’m currently learning **Full-Stack MERN Development**
+- 🌱 I’m currently learning **Full-Stack MERN Development**.
 
-- 🏠 I live in **Jashapar a small village near Kalavad, Jamnagar, Gujrat with my parants**.
+- 🏠I live in **Jashapar, which is a small village near Kalavad, Jamnagar, Gujrat, with my parents**.
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://abhayfaldu.github.io).
 
@@ -25,9 +25,9 @@
 
 <br>
 
-<h2 align="center">Connect with me:</h2>
+<h2>Connect with me:</h2>
 
-<p align="center">
+<p>
   <a href="https://twitter.com/abhayfaldu19" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
@@ -41,13 +41,20 @@
 
 <br>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2>Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mongodb,express,nodejs,git,github,heroku,figma,bash,codepen,stackoverflow,netlify)](https://skillicons.dev)
 
 <br>
 
-<h3 align="center">GitHub Statistics</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" width="500px"/>
+</p>
+
+<br>
+
+<h2 align="center">GitHub Statistics</h2>
   
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -65,19 +72,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=abhayfaldu&show_icons=true&locale=en&layout=compact" alt="stats-3"
-</p>
-
-<br>
-
-<h2 align="center">Snake eating my contributions graph</h2>
-
-<p align="center">
-  <img src="https://github.com/abhayfaldu/abhayfaldu/blob/output/github-contribution-grid-snake.svg" alt="snake-gif">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" width="500px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=abhayfaldu&show_icons=true&locale=en&layout=compact"     alt="stats-3"
 </p>
