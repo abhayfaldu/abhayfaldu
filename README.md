@@ -25,7 +25,7 @@
 
 <br>
 
-<h2>Connect with me:</h2>
+## Connect with me:
 
 <p>
   <a href="https://twitter.com/abhayfaldu19" target="_blank">
@@ -40,8 +40,6 @@
 </p>
 
 <br>
-
-<h2>Languages and Tools:</h2>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mongodb,express,nodejs)](https://skillicons.dev)
