@@ -43,7 +43,12 @@
 
 <h2>Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mongodb,express,nodejs,git,github,heroku,figma,bash,codepen,stackoverflow,netlify)](https://skillicons.dev)
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mongodb,express,nodejs)](https://skillicons.dev)
+
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,bash,replit,postman,heroku,figma,codepen,stackoverflow,netlify)](https://skillicons.dev)
 
 <br>
 
