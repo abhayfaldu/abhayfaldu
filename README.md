@@ -11,17 +11,37 @@
 
 <br>
 
-- 🔭 I’m currently working on **building skills by building projects**.
+<!-- - 🔭 I’m currently working on **building skills by building projects**.
 
 - 🌱 I’m currently learning **Full-Stack MERN Development**.
 
-- 🏠I live in **Jashapar, which is a small village Jamnagar, Gujrat**.
+- 🏠 I live in **Jashapar, which is a small village Jamnagar, Gujrat**.
 
-- 👨‍💻 Checkout my projects are avilable at [my portfolio](https://abhayfaldu.github.io).
+- 👨‍💻 Checkout my projects at [my portfolio](https://abhayfaldu.github.io).
 
-- 📫 Reach out to me at **abhayfaldu1922@gmail.com**.
+- 📫 Want to talk: **abhayfaldu1922@gmail.com**.
 
-- 📄 Know about my experiences at [my Resume](https://drive.google.com/file/d/15Bn0FY2CjJqNHzlS3bKhjveKetVgxq0R/view?usp=sharing).
+- 📄 Know about my experiences at [my Resume](https://drive.google.com/file/d/15Bn0FY2CjJqNHzlS3bKhjveKetVgxq0R/view?usp=sharing). -->
+
+## About Me
+👋 Hi, I'm Abhay Faldu, a Full-Stack MERN Developer based in Jashapar, a small village in Gujrat, India. I am passionate about building projects and learning new technologies.
+
+👨‍💻 You can check out my portfolio at [my portfolio](https://abhayfaldu.github.io) to see some of my recent projects.
+
+📄 Know about my experiences at [my Resume](https://drive.google.com/file/d/15Bn0FY2CjJqNHzlS3bKhjveKetVgxq0R/view?usp=sharing).
+
+📫 If you want to talk to me, feel free to email me at [abhayfaldu1922@gmail.com](mailto:abhayfaldu1922@gmail.com).
+
+<br>
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mongodb,express,nodejs,lua,md)](https://skillicons.dev)
+
+## Tools I use
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,git,github,bash,replit,postman,figma,codepen,stackoverflow,netlify)](https://skillicons.dev)
+
+## Some of my favourites apps
+[![favorite apps](https://skillicons.dev/icons?i=discord,twitter,linkedin)](https://skillicons.dev)
 
 <br>
 
@@ -40,19 +60,6 @@
 </p>
 
 <br>
-
-## My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mongodb,express,nodejs,lua,md)](https://skillicons.dev)
-
-
-## Tools I use
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,git,github,bash,replit,postman,figma,codepen,stackoverflow,netlify)](https://skillicons.dev)
-
-## Some favourites tools
-[![favorite apps](https://skillicons.dev/icons?i=discord,twitter,linkedin)](https://skillicons.dev)
-
-<br>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" width="500px"/>
@@ -80,3 +87,5 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=abhayfaldu&show_icons=true&locale=en&layout=compact"     alt="stats-3"
 </p>
+
+<h1 align='center'>Thanks for stopping by!</h1>
