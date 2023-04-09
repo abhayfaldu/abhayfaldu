@@ -3,21 +3,21 @@
 
 <br>
 
-<h1 align="center">Namaste 🙏🏻 from Abhay Faldu</h1>
+<h1 align="center">Namaste 🙏🏻, I am Abhay Faldu</h1>
 
-<h3 align="center">Aspiring MERN Stack developer from India</h3>
+<h3 align="center">Full-stack web developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhayfaldu&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra4545" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhayfaldu&label=Profile%20views&color=0e75b6&style=flat" alt="abhayfaldu" /> </p>
 
 <br>
 
-- 🔭 I’m currently working on **my skills**.
+- 🔭 I’m currently working on **building skills by building projects**.
 
 - 🌱 I’m currently learning **Full-Stack MERN Development**.
 
-- 🏠I live in **Jashapar, which is a small village near Kalavad, Jamnagar, Gujrat, with my parents**.
+- 🏠I live in **Jashapar, which is a small village Jamnagar, Gujrat**.
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://abhayfaldu.github.io).
+- 👨‍💻 Checkout my projects are avilable at [my portfolio](https://abhayfaldu.github.io).
 
 - 📫 Reach out to me at **abhayfaldu1922@gmail.com**.
 
@@ -41,12 +41,15 @@
 
 <br>
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mongodb,express,nodejs)](https://skillicons.dev)
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mongodb,express,nodejs,lua,md)](https://skillicons.dev)
 
 
-## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,bash,replit,postman,heroku,figma,codepen,stackoverflow,netlify)](https://skillicons.dev)
+## Tools I use
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,git,github,bash,replit,postman,figma,codepen,stackoverflow,netlify)](https://skillicons.dev)
+
+## Some favourites tools
+[![favorite apps](https://skillicons.dev/icons?i=discord,twitter,linkedin)](https://skillicons.dev)
 
 <br>
 
