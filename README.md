@@ -34,10 +34,15 @@
 <br>
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,mongodb,express,nodejs,lua,md)](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,vue,bootstrap,tailwind)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,adonis,mysql,mongodb)](https://skillicons.dev)
+### Other
+[![My Skills](https://skillicons.dev/icons?i=lua,md)](https://skillicons.dev)
 
 ## Tools I use
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,git,github,bash,replit,postman,figma,codepen,stackoverflow,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,git,github,bash,npm,replit,postman,figma,codepen,stackoverflow,netlify,vercel,notion,regex)](https://skillicons.dev)
 
 ## Some of my favourites apps
 [![favorite apps](https://skillicons.dev/icons?i=discord,twitter,linkedin)](https://skillicons.dev)
