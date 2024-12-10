@@ -4,7 +4,7 @@
 
 <h1 align="center">Namaste 🙏🏻 I am Abhay Faldu</h1>
 
-<h3 align="center">Full-stack web developer from India</h3>
+<h3 align="center">Full-stack web developer from Gujarat, India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhayfaldu&label=Profile%20views&color=0e75b6&style=flat" alt="abhayfaldu" /> </p>
 
