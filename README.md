@@ -83,13 +83,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhayfaldu&show_icons=true&theme=light&border_radius=8" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhayfaldu&theme=default&border_radius=8&color=#43BEE5" alt="stats-2" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abhayfaldu" alt="GitHub Streak" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=abhayfaldu&show_icons=true&locale=en&layout=compact"     alt="stats-3"
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=abhayfaldu&show_icons=true&locale=en&layout=compact" alt="stats-3" />
 </p>
 
 <h1 align='center'>Thanks for stopping by!</h1>
